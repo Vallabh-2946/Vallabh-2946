@@ -37,19 +37,35 @@
 
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Hi, I'm **Vallabh P** — a Computer Science Engineering undergraduate at **Atria Institute of Technology** pursuing a **Minor in Artificial Intelligence at IIT Mandi**, based in Bengaluru, India[cite: 2, 3]. I focus on **Data Analytics, Data Science, Business Intelligence, and AI**, turning messy datasets into clear patterns, dashboards, and practical insights[cite: 2].
 
-```js
-const vallabh = {
-  name: "Vallabh P",
-  role: "Data Analyst Intern @ Kagnus | CS & AI Undergrad",
-  education: [
-    "B.E. CSE @ Atria Institute of Technology",
-    "Minor in AI @ IIT Mandi"
-  ],
-  location: "Bengaluru, India",
-  stack: ["Python", "SQL", "Excel", "JavaScript", "Next.js", "Supabase"],
-  focus: ["Data Analytics", "Data Science", "BI", "AI"]
-};
+- 📊 **Current Role:** Data Analyst Intern at **Kagnus** (Nov 2026 – Present)[cite: 2]
+- 🧪 **Previous Internships:** Data Science Intern at **Corizo Edutech** and Data Analyst Intern at **SkillCraft Technology**, working on data cleaning, exploratory data analysis (EDA), and interactive Excel dashboards[cite: 2, 3]
+- 🛠️ **Core Toolkit:** Python, Pandas, SQL, Microsoft Excel, JavaScript, Next.js, Supabase, and Git/GitHub[cite: 2]
+- 🎯 **Interests & Focus:** Exploratory Data Analysis, Business Intelligence, Machine Learning, and full-stack data applications[cite: 2]
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vallabh-2946&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallabh-2946&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
