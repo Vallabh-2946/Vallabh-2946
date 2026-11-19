@@ -1,133 +1,55 @@
-# Hey there! I'm Vallabh P 👋
+<div align="center">
 
-### Engineering Student | Aspiring Data Analyst | Tech Enthusiast
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:134e4a,100:0d9488&height=200&section=header&text=Vallabh%20P&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Data%20Analytics%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=65&descColor=cbd5e1" width="100%" alt="Banner" />
 
-I'm an engineering student at **Atria Institute of Technology, Bengaluru**, passionate about working with data, solving real-world problems, and building technology-driven solutions.
+<br/>
 
-I enjoy exploring how raw data can be transformed into meaningful insights that support better decisions. Currently, I'm focusing on strengthening my skills in **Data Analytics, Python, SQL, Excel, and Power BI**, while building practical projects to apply what I learn.
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Turning+raw+data+into+actionable+insights;Data+Analyst+Intern+%40+Kagnus+%7C+AI+Minor+%40+IIT+Mandi;CSE+Undergrad+%40+Atria+Institute+of+Technology" alt="Typing SVG" />
 
-I believe in learning by building, experimenting, and continuously improving.
+<br/>
 
----
+<!-- STATS ROW -->
+<img src="https://komarev.com/ghpvc/?username=Vallabh-2946&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Vallabh-2946?label=FOLLOWERS&style=flat-square&color=1e293b&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Vallabh-2946?label=STARS&style=flat-square&color=1e293b&logo=github" alt="Stars" />
 
-## 👨‍💻 About Me
+<br/><br/>
 
-- 🎓 Engineering student at Atria Institute of Technology.
-- 📊 Interested in Data Analytics, Business Intelligence, and Data Science.
-- 🐍 Learning Python, Pandas, NumPy, and data analysis.
-- 🗄️ Exploring SQL, DBMS, and data management.
-- 📈 Working towards mastering Excel and Power BI.
-- 🔍 Interested in data cleaning, exploratory data analysis, and visualization.
-- 🛠️ Building practical projects involving analytics, automation, and technology.
-- 🚀 Always looking for opportunities to learn, collaborate, and grow.
+<!-- CONTACT & STATUS BADGES -->
+<a href="mailto:pvallabh2006@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/vallabh-p-42b46b330/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Vallabh-2946">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_COLLABS-22c55e?style=for-the-badge" alt="Open to Internships" />
 
----
+</div>
 
-## 🧰 Tech Stack & Tools
-
-**Programming & Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Analytics & Visualization**
-
-![Excel](https://img.shields.io/badge/Excel-1F2937?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1F2937?style=for-the-badge&logo=powerbi&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2937?style=for-the-badge&logo=python&logoColor=white)
-
-**Development & Tools**
-
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-### 1. Real-Time Fraud Detection Pipeline
-A machine learning project focused on identifying potentially fraudulent financial transactions using anomaly detection techniques.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- Dataset exploration and preprocessing.
-- Handling highly imbalanced transaction data.
-- Isolation Forest implementation.
-- Model evaluation using Precision, Recall, F1-score, and PR-AUC.
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit.
-
-[View Repository](https://github.com/Vallabh-2946/Real-Time-Fraud-Detection)
-
-### 2. Global Superstore Data Analysis
-A data analytics project involving the cleaning and preparation of Global Superstore data to make it suitable for further analysis.
-
-**Tech:** Python, Pandas, Data Cleaning.
-
-[View Repository](https://github.com/Vallabh-2946/SCT_DA_2)
-
-### 3. CleanSlate – CSV Data Cleaning Tool
-A Java-based console application designed to clean CSV datasets by validating records, detecting duplicates, and exporting cleaned data.
-
-- CSV file reading and processing.
-- Data validation.
-- Duplicate detection.
-- Cleaned data export.
-
-**Tech:** Java, CSV Processing, OOP.
-
-### 4. SmartAgriChain
-A technology-driven agricultural solution exploring the integration of AI, IoT, genomics, and blockchain to improve agricultural processes and traceability.
-
-### 5. Learning Dashboard
-A web-based learning dashboard designed to organize and manage learning activities.
-
-**Tech:** Next.js, Supabase, Vercel.
-
-[View Repository](https://github.com/Vallabh-2946/learning-dashboard)
-
-### 6. Skill Spark Advisor
-An interactive application designed to help users explore skills and learning opportunities.
-
-[Explore Project](https://skill-spark-advisor.lovable.app/)
-
----
-
-## 📚 Currently Learning
-
-- Python for Data Analytics
-- SQL and Database Management
-- Excel – Pivot Tables, Lookup Functions, and Data Analysis
-- Power BI – Data Modeling and Visualization
-- Statistics and Exploratory Data Analysis
-- Machine Learning Fundamentals
-
----
-
-## 🎯 My Goals
-
-- Build a strong foundation in Data Analytics.
-- Develop industry-relevant projects using real-world datasets.
-- Improve problem-solving and analytical thinking.
-- Gain practical experience through internships.
-- Build a professional portfolio showcasing my work.
-- Continuously explore new technologies and opportunities.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with fellow developers, data enthusiasts, students, and professionals.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vallabh--2946-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vallabh-2946)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vallabh-p-42b46b330/)
-
----
-
-<p align="center">
-  <i>"Learning by building. Growing by experimenting. Improving every day."</i>
-</p>
+```js
+const vallabh = {
+  name: "Vallabh P",
+  role: "Data Analyst Intern @ Kagnus | CS & AI Undergrad",
+  education: [
+    "B.E. CSE @ Atria Institute of Technology",
+    "Minor in AI @ IIT Mandi"
+  ],
+  location: "Bengaluru, India",
+  stack: ["Python", "SQL", "Excel", "JavaScript", "Next.js", "Supabase"],
+  focus: ["Data Analytics", "Data Science", "BI", "AI"]
+};
