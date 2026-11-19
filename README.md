@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- CONTACT & STATUS BADGES -->
-<a href="mailto:pvallabh2006@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pvallabh2006@gmail.com&su=Internship%20%2F%20Collaboration%20Inquiry" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/vallabh-p-42b46b330/">
